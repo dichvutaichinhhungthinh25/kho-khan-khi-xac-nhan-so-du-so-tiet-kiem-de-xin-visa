@@ -14,7 +14,7 @@
 
 # 
 
-# Ngoài ra, vướng mắc về thời gian và chi phí cũng là vấn đề cần lưu ý. Thời gian xác nhận có thể kéo dài, đặc biệt vào giờ cao điểm, và chi phí dịch vụ của từng ngân hàng có thể khác nhau.
+# Ngoài ra, vướng mắc về thời gian và chi phí cũng là vấn đề cần lưu ý. Thời gian xác nhận có thể kéo dài, đặc biệt vào giờ cao điểm, và chi phí dịch vụ của từng ngân hàng có thể khác nhau.s
 
 # 
 
