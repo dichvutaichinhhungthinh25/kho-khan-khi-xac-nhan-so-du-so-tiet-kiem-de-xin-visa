@@ -12,7 +12,7 @@
 
 # Tiếp theo là khó khăn trong việc chọn ngân hàng. Không phải ngân hàng nào cũng có quy trình xác nhận số dư nhanh chóng và thuận tiện. Lựa chọn ngân hàng phù hợp sẽ giúp tiết kiệm thời gian và chi phí.
 
-# 
+# Để biết thêm chi tiết, bạn có thể tham khảo bài viết tại: https://dichvutaichinh.vn/kho-khan-khi-xac-nhan-so-du-so-tiet-kiem-de-xin-visa.html
 
 # Ngoài ra, vướng mắc về thời gian và chi phí cũng là vấn đề cần lưu ý. Thời gian xác nhận có thể kéo dài, đặc biệt vào giờ cao điểm, và chi phí dịch vụ của từng ngân hàng có thể khác nhau.s
 
